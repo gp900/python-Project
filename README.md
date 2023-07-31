@@ -34,3 +34,6 @@ Running the Tkinter main loop:
 
 root.mainloop(): This method starts the Tkinter event loop and keeps the GUI application running until the user closes the window.
 Overall, the code defines the GUI elements and provides logic to play a game of Tic Tac Toe between two players. When a player wins, a message box pops up to announce the winner, and players' scores are updated accordingly. The "Reset" button clears the board, and the "New Game" button resets the game entirely.
+
+below is the interface of my tic tac toe:-
+![image](https://github.com/gp900/python-Project/assets/137711156/c6c87d10-e945-4a94-8266-aa38b19b2dd8)
